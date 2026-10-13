@@ -16,7 +16,7 @@ Here is a list of my favorite classes at UW:
 - [Software Design and Implementation](https://courses.cs.washington.edu/courses/cse331/)
 - [Systems Programming](https://courses.cs.washington.edu/courses/cse333/)
 - [Distributed Systems](https://courses.cs.washington.edu/courses/cse452/)
-- And of course, [Software Documentation](https://english.washington.edu/courses/2025/spring/engl/396/a)!
+- *And of course, [Software Documentation](https://english.washington.edu/courses/2025/spring/engl/396/a)!*
 
 ## Programming Background
 
